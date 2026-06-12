@@ -1,3 +1,13 @@
-let nome = "Gabriel"
-console.log (nome)
-console.log (typeof(nome));
+let nome = "Gabriel";
+
+nome = "kaleb"
+
+console.log (nome);
+
+let idade = 17;
+
+console.log (idade)
+
+
+let maiorDeIdade = false
+console.log ("Maior de idade:", maiorDeIdade);
